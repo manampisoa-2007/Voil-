@@ -1,0 +1,27 @@
+body{
+  	  background-color: bisque;
+  	}
+  h1{
+    color:blue;
+    width:12px;
+  }
+  h2{
+    width:10px;
+    text:center;
+  }
+  p{
+    text-align:5;
+  }
+#ok{
+  color : blue;
+  font-style: italic
+}
+#tatamo{
+  	  color: red;
+}
+#baba{
+  	  color: blue;
+}
+
+
+

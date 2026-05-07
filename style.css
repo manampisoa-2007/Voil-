@@ -1,0 +1,50 @@
+body{
+  background-color: azure;
+}
+img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: 5%;
+}
+
+.partie1{
+  background-color: aqua;
+}
+h1{
+  color: blue;
+  font-style: <angle>;
+}
+#nom{
+    border-bottom: 2px solid blue;
+    padding-bottom: 5px ;
+}
+#mention{
+  color: brown;
+}
+#contact{
+  border-bottom:2px solid blue;
+}
+.partie2{
+ background-color: cyan;
+}
+.partie2 h2{
+  color: red;
+  
+}
+#profil{
+  border-bottom:2px solid blue;
+  padding-bottom: 5px
+}
+.partie3{
+  background-color: aqua;
+  padding: 0px 0px 0px 20px;
+}
+.partie4{
+  background-color: cyan;
+  padding: 0px 0px 0px 20px;
+}
+.partie5{
+  background-color: cornflowerblue;
+  padding: 20px;
+}
